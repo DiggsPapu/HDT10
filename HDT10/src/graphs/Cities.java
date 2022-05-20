@@ -4,10 +4,10 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class Cities {
-	Integer adyacency[][];
-	Integer routes[][];
-	ArrayList<String> cities;
-	final static int INF = 9999, nV = 5;
+	private Integer adyacency[][];
+	private Integer routes[][];
+	private ArrayList<String> cities;
+	private final static int INF = 9999, nV = 5;
 	/**
 	 * Es la clase constructora de ciudadess
 	 * @param adyacency
