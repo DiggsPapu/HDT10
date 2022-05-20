@@ -17,7 +17,7 @@ public class Main {
 	//C:\Users\Windows 10\Documents\UVG\CODING\Algoritmos y estructuras de datos\HDT\HDT10\Others\guategrafo.txt
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Scanner teclado = new Scanner(System.in);
+		Scanner teclado = new Scanner(System.in); 
 		Leer archivo = new Leer();
 		System.out.println("Ingrese el directorio:"); 
 		String ruta = teclado.nextLine();
