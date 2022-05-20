@@ -1,10 +1,14 @@
+
 import java.util.ArrayList;
 import java.util.Scanner;
+
+
+
 /**
  * @author Diego Alonzo 20172
  */
 public class Main {
-
+ 
 	/**
 	 * Es el main
 	 * @param args

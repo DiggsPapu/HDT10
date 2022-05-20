@@ -19,7 +19,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		Scanner teclado = new Scanner(System.in);
 		Leer archivo = new Leer();
-		System.out.println("Ingrese el directorio:");
+		System.out.println("Ingrese el directorio:"); 
 		String ruta = teclado.nextLine();
 		String texto = archivo.Leer(ruta);
 		ArrayList<String> ciudades = new ArrayList<>();
